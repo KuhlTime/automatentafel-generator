@@ -1,6 +1,6 @@
 # Automatentafel Generator
 
-Für das Modul Nachrichtencodierung habe ich hier einen PDF Generator erstellt, welcher abhängig von einigen Parametern eine leere Automatentafel als PDF erstellen kann.
+Für das Modul Nachrichtencodierung habe ich hier einen PDF Generator erstellt, welcher abhängig von einigen Parametern eine leere Automatentafel als PDF erstellen kann. Zum ausführen des Programmcode ist die Anwendung [Processing](https://processing.org/) herunterzuladen.
 
 Da ich keine gute LaTeX Library gefunden habe. Nutze ich folgende self-hosted API: https://github.com/chialab/math-api
 
