@@ -19,4 +19,4 @@ Da ich keine gute LaTeX Library gefunden habe. Nutze ich folgende self-hosted AP
 `binary_outputs = 1`
 <br>
 
-![Example](assets/example.svg)
+![Example](assets/example.jpg)
