@@ -18,7 +18,7 @@ final int totalWidth = coloumnWidth * totalColoumns;
 final int totalHeight = rowHeight * totalRows;
 
 void settings() {
-  println("Please wait, this may takes some time. Depending on your settings.");
+  println("Please wait, this may take some time. Depending on your settings.");
   size(padding * 2 + totalWidth, padding * 2 + totalHeight, PDF, "output.pdf");
 }
 
