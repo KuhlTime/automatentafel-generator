@@ -6,7 +6,7 @@ final int binary_states = 2;
 final int binary_inputs = 1;
 final int binary_outputs = 1;
 
-final int scale = 3;
+final int scale = 4;
 
 final int coloumnWidth = 38;
 final int rowHeight = 30;
