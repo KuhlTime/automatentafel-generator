@@ -151,7 +151,7 @@ void setup() {
       if (binary_outputs == 1) {
         loadLatex("\\%20A\\%20", left_t, padding); 
       } else {
-        loadLatex("A_{" + (i+1) + "}", left_t, padding); 
+        loadLatex("A_{" + (j+1) + "}", left_t, padding); 
       }
     }
   }
